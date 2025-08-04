@@ -1,5 +1,5 @@
 import React from 'react';
-import "./App.css"
+import "../App.css"
 import Profile from "./components/Profile.jsx";
 import Avatar from "./components/Avatar.jsx";
 

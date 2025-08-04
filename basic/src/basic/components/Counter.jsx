@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import '../App.css'
+import '../../App.css'
 
 export default function Counter({total,handleClick}) {
     const [count, setCount] = useState(0)
