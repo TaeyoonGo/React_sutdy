@@ -1,13 +1,13 @@
 import React from 'react';
 
-export default function Avatar({image,isNew}) {
+export default function Avatar({image, isNew}) {
     return (
         <div className="avatar">
             <img className="photo"
                  src={image}
                  alt="avator"></img>
-            {isNew && <span className="new">new</span>}
+            {isNew && <span className="new"></span>}
         </div>
-)
-    ;
+    )
+
 }
