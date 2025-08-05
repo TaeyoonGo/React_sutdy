@@ -9,7 +9,7 @@ export default function AppCounter() {
     return (
         <div className="container">
             <div className="banner">
-                Total Count : {total} {total > 10 ? '🔥' : '❄️'}
+            Total Count : {total} {total > 10 ? '🔥' : '❄️'}
             </div>
             <div>
                 <Counter total={total} handleClick={handleClick} />
