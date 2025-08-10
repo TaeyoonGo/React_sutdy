@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="docs : 리엑트 복습 시작">
+      <change afterPath="$PROJECT_DIR$/basic/src/AppProfile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/components/Avatar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/components/Profile.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TaeyoonGo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TaeyoonGo/React_sutdy.git&quot;,
+    &quot;accountId&quot;: &quot;296998d3-46f9-4cba-a634-2753b207dc4e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="30ld3WrVagUBrEmxFQ5kc7rN35T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/taeyoon/WebstormProjects/React_sutdy/basic/public",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic/src" />
+      <recent name="$PROJECT_DIR$/basic/src/basic" />
+      <recent name="$PROJECT_DIR$/basic/src/components" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="" />
+      <created>1754205894960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754205894960</updated>
+      <workItem from="1754205896971" duration="1537000" />
+      <workItem from="1754207465044" duration="141000" />
+      <workItem from="1754208649231" duration="1351000" />
+      <workItem from="1754210362553" duration="69000" />
+      <workItem from="1754210434352" duration="433000" />
+      <workItem from="1754210870132" duration="246000" />
+      <workItem from="1754211118482" duration="10331000" />
+      <workItem from="1754263027023" duration="11962000" />
+      <workItem from="1754359267042" duration="236000" />
+      <workItem from="1754359514086" duration="23348000" />
+      <workItem from="1754436932528" duration="2747000" />
+      <workItem from="1754459657277" duration="643000" />
+      <workItem from="1754465109842" duration="8088000" />
+      <workItem from="1754513958617" duration="602000" />
+      <workItem from="1754551654817" duration="5006000" />
+      <workItem from="1754557731485" duration="16000" />
+      <workItem from="1754571364654" duration="202000" />
+      <workItem from="1754796164559" duration="1067000" />
+      <workItem from="1754813869412" duration="10615000" />
+      <workItem from="1754865678414" duration="1585000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore : 초기환경 세팅 완료&#10;&#10;React Study 레파지토리 생성">
+      <option name="closed" value="true" />
+      <created>1754205958974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754205958974</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat : 아바타 컴포넌트 만들기 작업 완료">
+      <option name="closed" value="true" />
+      <created>1754220833062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754220833062</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat : 아바타 컴포넌트 만들기 작업 완료">
+      <option name="closed" value="true" />
+      <created>1754223692298</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754223692298</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat : React 기본 내용들 정리 완료">
+      <option name="closed" value="true" />
+      <created>1754275410192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754275410192</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat : React 마우스 따라가기 강의 정리 완료">
+      <option name="closed" value="true" />
+      <created>1754278304383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754278304384</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat : 리엑트 개념정리 컴포넌트 스터디 완료">
+      <option name="closed" value="true" />
+      <created>1754383534968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754383534968</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat : 리엑트 개념정리 컴포넌트 스터디 완료">
+      <option name="closed" value="true" />
+      <created>1754813993432</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754813993432</updated>
+    </task>
+    <task id="LOCAL-00008" summary="docs : 리엑트 복습 시작">
+      <option name="closed" value="true" />
+      <created>1754814317831</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754814317831</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="chore : 초기환경 세팅 완료&#10;&#10;React Study 레파지토리 생성" />
+    <MESSAGE value="feat : 아바타 컴포넌트 만들기 작업 완료" />
+    <MESSAGE value="feat : React 기본 내용들 정리 완료" />
+    <MESSAGE value="feat : React 마우스 따라가기 강의 정리 완료" />
+    <MESSAGE value="feat : 리엑트 개념정리 컴포넌트 스터디 완료" />
+    <MESSAGE value="docs : 리엑트 복습 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs : 리엑트 복습 시작" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/basic/src/AppMentors.jsx</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

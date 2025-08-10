@@ -1,0 +1,45 @@
+.orange{
+    color: orange;
+}
+.photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.profile{
+    width: 300px;
+    text-align: center;
+    padding: 1rem;
+    background-color: #ebebeb;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+.badge{
+    position: absolute;
+    left: 70%;
+    top: 10%;
+    background-color: aquamarine;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+
+}
+.avatar{
+    width: 200px;
+    margin: 0 auto;
+    height: 200px;
+   position: relative;
+}
+.badge{
+    position: absolute;
+    left: 70%;
+    top: 10%;
+    background-color: aquamarine;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
