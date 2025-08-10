@@ -11,9 +11,12 @@ import AppMentorsImmer from "./AppMentorsImmer.jsx";
 import AppForm from "./AppForm.jsx";
 import AppWrap from "./AppWrap.jsx";
 import AppCard from "./AppCard.jsx";
+import AppTheme from "./AppTheme.jsx";
+import AppMentorsButton from "./AppMentorsButton.jsx";
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-      <AppCard/>
+      <AppProfile/>
   </StrictMode>
 )
+
