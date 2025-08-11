@@ -43,3 +43,40 @@
     border-radius: 0.5rem;
     font-weight: bold;
 }
+.banner{
+    background-color: yellow;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    padding: 1rem;
+    flex-direction: column;
+    text-align: center;
+    border: 2px solid rgb(215,127,12);
+}
+.counter:hover{
+    background-color: rgb(246,243,197);
+}
+.number{
+    font-size: 7rem;
+    span{
+        font-size: 2rem;
+    }
+}
+.button{
+    font-size: 2rem;
+    padding: 0.2rem 1rem;
+    border-radius: 0.5rem;
+    cursor:pointer;
+    background:rgb(215,127,12);
+    background: linear-gradient(
+        90deg,
+        rgba(215,127,12,1) 0%,
+        rgba(253,220,29,1) 100%
+    )
+}
