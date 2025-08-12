@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="docs : 리엑트 기본 내용들 정리">
-      <change afterPath="$PROJECT_DIR$/basic/src/AppMentor.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/AppXY.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/AppXY.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/AppCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/AppForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/AppMentorsImmer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/AppWrap.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/reducer/person-reducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/AppCounter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/AppCounter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/AppJSX.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/AppJSX.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/AppProducts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/AppProducts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/components/Avatar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/components/Avatar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/components/Products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/components/Products.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/components/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/components/Profile.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/components/counter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/components/counter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/basic/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/basic/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JSX File" />
         <option value="JavaScript File" />
+        <option value="JSX File" />
       </list>
     </option>
   </component>
@@ -131,7 +127,7 @@
       <workItem from="1754865678414" duration="3640000" />
       <workItem from="1754891773691" duration="8105000" />
       <workItem from="1754914655008" duration="2000" />
-      <workItem from="1754962950016" duration="10348000" />
+      <workItem from="1754962950016" duration="19653000" />
     </task>
     <task id="LOCAL-00001" summary="chore : 초기환경 세팅 완료&#10;&#10;React Study 레파지토리 생성">
       <option name="closed" value="true" />
@@ -213,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754903053178</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="docs : 리엑트 기본 내용들 정리">
+      <option name="closed" value="true" />
+      <created>1754973507202</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1754973507202</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
