@@ -11,9 +11,20 @@ import AppMentorsImmer from "./AppMentorsImmer.jsx";
 import AppForm from "./AppForm.jsx";
 import AppWrap from "./AppWrap.jsx";
 import AppCard from "./AppCard.jsx";
+import AppTheme from "./AppTheme.jsx";
+import AppMentorsButton from "./AppMentorsButton.jsx";
+import Products from "./basic/components/Products.jsx";
+import Button1 from "./components/Button1.jsx";
+import Button2 from "./components/Button2.jsx";
+import StyledComponent from "./StyledComponent.jsx";
+import TailwindComponent from "./TailwindComponent.jsx";
+
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-      <AppCard></AppCard>
+      <Button1/>
+      <Button2/>
+      <StyledComponent/>
+      <TailwindComponent/>
   </StrictMode>,
 )

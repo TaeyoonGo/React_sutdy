@@ -5,15 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="docs : 리엑트 기본 내용들 정리">
-      <change afterPath="$PROJECT_DIR$/basic/src/AppCard.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/AppForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/AppMentorsImmer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/AppWrap.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/src/reducer/person-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/AppMentorsButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/AppTheme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/AppTheme.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/StyledComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/TailwindComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/components/Button1.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/components/Button1.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/components/Button2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/components/Button2.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/context/DarkModeContent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/src/hooks/use-products.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/basic/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/basic/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/basic/components/Products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/basic/components/Products.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/basic/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/basic/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +47,31 @@
     &quot;assignee&quot;: &quot;TaeyoonGo&quot;
   }
 }</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature-a" />
+                    <option name="lastUsedInstant" value="1755075235" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1755075234" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/TaeyoonGo/React_sutdy.git&quot;,
@@ -52,25 +86,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taeyoon/WebstormProjects/React_sutdy/basic/public&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.HTML&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature-a",
+    "last_opened_file_path": "/Users/taeyoon/WebstormProjects/React_sutdy/basic/public",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -127,7 +161,9 @@
       <workItem from="1754865678414" duration="3640000" />
       <workItem from="1754891773691" duration="8105000" />
       <workItem from="1754914655008" duration="2000" />
-      <workItem from="1754962950016" duration="19653000" />
+      <workItem from="1754962950016" duration="22256000" />
+      <workItem from="1755002466367" duration="1000" />
+      <workItem from="1755052067393" duration="15437000" />
     </task>
     <task id="LOCAL-00001" summary="chore : 초기환경 세팅 완료&#10;&#10;React Study 레파지토리 생성">
       <option name="closed" value="true" />
@@ -217,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754973507202</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="docs : 리엑트 기본 내용들 정리">
+      <option name="closed" value="true" />
+      <created>1754985606022</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1754985606022</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
