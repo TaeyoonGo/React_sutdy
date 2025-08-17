@@ -11,6 +11,7 @@ export default function AppForm() {
         const {name , value} = e.target;
         setForm({...form, [name]: value})
     }
+
     return (
         <div>
             <form onSubmit={handleSubmit}>
