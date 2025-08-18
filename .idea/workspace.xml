@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="docs : 리엑트 기본 내용들 정리">
-      <change afterPath="$PROJECT_DIR$/todo/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo/src/components/Todo/Todo.jsx" afterDir="false" />
+    <list default="true" id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="docs : 리엑트 TodoList 공부 만드는중.">
+      <change afterPath="$PROJECT_DIR$/todo/src/components/AddTodo/AddTodo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/Todo/Todo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/components/TodoList/TodoList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/src/context/DarkModeContext.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/AppForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/AppForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic/src/context/DarkModeContent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/context/DarkModeContent.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/components/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/src/components/Todo/Todo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/components/Todo/Todo.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="JSX File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -81,25 +84,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taeyoon/WebstormProjects/React_sutdy&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.HTML&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/taeyoon/WebstormProjects/React_sutdy",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -118,6 +122,16 @@
       <recent name="$PROJECT_DIR$/basic/src/basic" />
       <recent name="$PROJECT_DIR$/basic/src/components" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/React_sutdy/todo/src/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -168,7 +182,11 @@
       <workItem from="1755342323230" duration="77000" />
       <workItem from="1755343698578" duration="418000" />
       <workItem from="1755404726311" duration="1354000" />
-      <workItem from="1755414425850" duration="11839000" />
+      <workItem from="1755414425850" duration="13314000" />
+      <workItem from="1755476177261" duration="598000" />
+      <workItem from="1755485165567" duration="2488000" />
+      <workItem from="1755487676123" duration="262000" />
+      <workItem from="1755487950828" duration="15681000" />
     </task>
     <task id="LOCAL-00001" summary="chore : 초기환경 세팅 완료&#10;&#10;React Study 레파지토리 생성">
       <option name="closed" value="true" />
@@ -266,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754985606022</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="docs : 리엑트 TodoList 공부 만드는중.">
+      <option name="closed" value="true" />
+      <created>1755437720099</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755437720099</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,15 +308,15 @@
     <MESSAGE value="feat : 리엑트 개념정리 컴포넌트 스터디 완료" />
     <MESSAGE value="docs : 리엑트 복습 시작" />
     <MESSAGE value="docs : 리엑트 기본 내용들 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs : 리엑트 기본 내용들 정리" />
+    <MESSAGE value="docs : 리엑트 TodoList 공부 만드는중." />
+    <option name="LAST_COMMIT_MESSAGE" value="docs : 리엑트 TodoList 공부 만드는중." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/todo/src/components/AddTodo/AddTodo.jsx</url>
-          <line>5</line>
-          <properties lambdaOrdinal="-1" />
+          <line>6</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
