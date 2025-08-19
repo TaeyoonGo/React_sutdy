@@ -10,7 +10,7 @@ function App() {
     const [filter, setFilter] = useState(filters[0]);
     return (
         <DarkModeProvider>
-            <Header filters={filters} filter={filter} onFilterChange={setFilter}/>
+            <Header filters={filters} filter={filter} onFilterChange={ setFilter} />
             <TodoList filter={filter}/>
         </DarkModeProvider>
     )

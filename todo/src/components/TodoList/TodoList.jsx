@@ -18,7 +18,7 @@ export default function TodoList({filter}) {
     }, [todos]);
 
 
-    const filtered = getFilterdItem(todos,filter)
+    const filtered = getFilteredItem(todos,filter)
     return (
         <section className={styles.container}>
             <ul className={styles.list}>
@@ -37,7 +37,7 @@ export default function TodoList({filter}) {
 }
 
 
-function getFilterdItem(todos, filter) {
+function getFilteredItem(todos, filter) {
     if(filter === 'all'){
         return todos;
     }
