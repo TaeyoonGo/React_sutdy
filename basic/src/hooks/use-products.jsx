@@ -5,6 +5,7 @@ export default function useProducts({salesOnly}){
     const [error, setError] = useState([])
     const [products, setProducts] = useState([])
 
+
     useEffect(() => {
         setLoading(true)
         setError(undefined);

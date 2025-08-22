@@ -4,14 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="feat : 리엑트 TodoList 스터디 완">
-      <change afterPath="$PROJECT_DIR$/router-study/src/pages/Root.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router-study/src/pages/VideoDetail.jsx" afterDir="false" />
+    <list default="true" id="fbed9831-1ee4-4e25-98e1-7496bbe615e0" name="Changes" comment="feat : React-Router 스터디 완료">
+      <change afterPath="$PROJECT_DIR$/query-study/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-study/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-study/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-study/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-study/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/query-study/public/robots.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/components/Header/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/components/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/src/components/TodoList/TodoList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/todo/src/components/TodoList/TodoList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/src/hooks/use-products.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/basic/src/hooks/use-products.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +93,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/taeyoon/WebstormProjects/React_sutdy&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/taeyoon/WebstormProjects/React_sutdy/query-study&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -114,12 +116,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/query-study" />
       <recent name="$PROJECT_DIR$/basic/public" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/query-study/src" />
+      <recent name="$PROJECT_DIR$/query-study/public" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/basic/src" />
       <recent name="$PROJECT_DIR$/basic/src/basic" />
-      <recent name="$PROJECT_DIR$/basic/src/components" />
     </key>
   </component>
   <component name="RunManager">
@@ -186,7 +191,11 @@
       <workItem from="1755485165567" duration="2488000" />
       <workItem from="1755487676123" duration="262000" />
       <workItem from="1755487950828" duration="17727000" />
-      <workItem from="1755568410393" duration="13280000" />
+      <workItem from="1755568410393" duration="14422000" />
+      <workItem from="1755590573331" duration="2427000" />
+      <workItem from="1755605818123" duration="7000" />
+      <workItem from="1755695482403" duration="1000" />
+      <workItem from="1755829437929" duration="8420000" />
     </task>
     <task id="LOCAL-00001" summary="chore : 초기환경 세팅 완료&#10;&#10;React Study 레파지토리 생성">
       <option name="closed" value="true" />
@@ -308,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755507512295</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat : React-Router 스터디 완료">
+      <option name="closed" value="true" />
+      <created>1755584988914</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755584988914</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +343,8 @@
     <MESSAGE value="docs : 리엑트 기본 내용들 정리" />
     <MESSAGE value="docs : 리엑트 TodoList 공부 만드는중." />
     <MESSAGE value="feat : 리엑트 TodoList 스터디 완" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : 리엑트 TodoList 스터디 완" />
+    <MESSAGE value="feat : React-Router 스터디 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : React-Router 스터디 완료" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
